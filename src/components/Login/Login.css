@@ -1,0 +1,12 @@
+.login-area {
+    text-align: center;
+}
+
+button.login-button {
+    background-color: orange;
+    line-height: 25px;
+    width: 200px;
+    padding: 5px;
+    cursor: pointer;
+    color: black;
+}

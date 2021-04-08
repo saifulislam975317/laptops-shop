@@ -1,0 +1,27 @@
+form.form-container {
+    display: flex;
+}
+
+.navBar {
+    margin: 20px;
+    padding: 10px;
+    background-color: #054b05;
+    width: 230px;
+    height: 400px;
+}
+
+h2 a {
+    color: white;
+    text-decoration: none;
+}
+
+.inputsDiv {
+    background-color: aliceblue;
+    margin: 24px;
+    padding: 20px;
+}
+.submit-button{
+    cursor: pointer;
+    background-color: orange;
+    width: 100px;
+}

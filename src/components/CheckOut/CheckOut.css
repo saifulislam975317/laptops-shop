@@ -1,0 +1,32 @@
+.descAndPrice {
+    display: grid;
+    grid-auto-flow: column;
+}
+
+.nameAndPriceDiv {
+    display: grid;
+    grid-auto-flow: column;
+}
+
+
+
+
+h2.price {
+    position: relative;
+    right: 130px;
+    color: orange;
+}
+
+.descAndPrice h3 {
+    color: orangered;
+}
+
+.checkOut-button {
+    text-align: end;
+    position: relative;
+    right: 461px;
+   
+}
+.checkOut-button button{
+    cursor: pointer;
+}

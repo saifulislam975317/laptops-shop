@@ -1,0 +1,32 @@
+div#items-container img {
+    width: 303px;
+    height: 200px;
+}
+
+div#items-container {
+    border: 2px solid black;
+    width: 360px;box-shadow: 10px 10px 10px gray;
+    margin: 20px;
+    padding: 10px;display: inline-block;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.priceAndButton {
+    display: flex;
+    justify-content: space-between;
+}
+
+button.buyNow-button {
+    background-color: orange;
+    width: 100px;
+    height: 40px;
+    border-radius: 5px;
+    position: relative;
+    top: 15px;
+    cursor: pointer;
+}
+
+.priceAndButton h3 {
+    color: crimson;
+}

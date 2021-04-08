@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+
+.navBarDiv {
+  border: 1px solid black;
+  display: flex;
+  line-height: 60px;
+  margin: 10px;
+  padding: 10px;
+  background-color: black;
+  justify-content: center;
+}
+
+li a {color: white;text-decoration: none;margin: 10px;padding: 10px;}
+
+li {
+  list-style: none;
+}
