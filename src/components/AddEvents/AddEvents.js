@@ -15,7 +15,7 @@ const AddEvents = () => {
             price: data.price,
            imageURL:imageURL
         };
-        const url = `http://localhost:8000/addEvent`
+        const url = `https://stormy-river-25571.herokuapp.com/addEvent`
         
         console.log(eventData)
         fetch(url, {
