@@ -14,6 +14,8 @@ const Event = ({event}) => {
        
         history.push(url)
     }
+
+
     
     return (
         <div id="items-container" className="col-md-3">
